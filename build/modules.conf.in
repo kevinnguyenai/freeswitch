@@ -109,6 +109,8 @@ event_handlers/mod_event_socket
 #event_handlers/mod_fail2ban
 #event_handlers/mod_format_cdr
 #event_handlers/mod_json_cdr
+#event_handlers/mod_json_kafka_cdr
+#event_handlers/mod_event_kafka
 #event_handlers/mod_radius_cdr
 #event_handlers/mod_odbc_cdr
 #event_handlers/mod_kazoo
